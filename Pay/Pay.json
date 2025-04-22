@@ -1,0 +1,22 @@
+{
+    "name": "PAY Token",
+    "symbol": "PAY",
+    "description": "PAY Token",
+    "image": "https://github.com/astra-labs-ln/media-kit/blob/main/Pay/Pay_Icon.png",
+    "external_url": "https://www.astra-labs.io",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Utility Token"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/astra-labs-ln/media-kit/blob/main/Pay/Pay_Icon.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
